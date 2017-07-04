@@ -22,6 +22,7 @@ DEFAULTS = {
     'ENABLE_USER_PREFERENCES': True,
     'ENABLE_CACHE': True,
     'VALIDATE_NAMES': True,
+    'FILE_PREFERENCE_REL_UPLOAD_DIR': 'dynamic_preferences',
 }
 
 
